@@ -18,7 +18,7 @@ Dorothy learned React.js in one day (which is _commendable_) and ran into a lot 
 Terrisa worked on creating a prototype for the web app on Figma. 
 
 ## The Directory
-The file ```ttcalertsbutbetter.ipynb``` has the backend code in Python hosted on Colab. The file ```twitter_attack.csv``` contains the tweets scraped from Twitter, and the file ```cleanedupdata.csv``` contains cleaned up data for processing. The file ```Tweet_Labels.csv``` is generated using the Co:here API, which includes only the high-alert tweets that were classified using the API. ```Alerts.csv``` contains a summary of the alert tweets to be sent out to the users. ```ttc alert app prototype.png``` shows the prototype of the web app we built using Figma. ```React.js``` contains all the React.js files used in the frontend.
+The file ```ttcalertsbutbetter.ipynb``` has the backend code in Python hosted on Colab. The file ```twitter_attack.csv``` contains the tweets scraped from Twitter, and the file ```cleanedupdata.csv``` contains cleaned up data for processing. The file ```Tweet_Labels.csv``` is generated using the Co:here API, which includes only the high-alert tweets that were classified using the API. ```Alerts.csv``` contains a summary of the alert tweets to be sent out to the users. ```ttc alert app prototype.png``` shows the prototype of the web app we built using Figma. ```react.js files``` contains all the React.js files used in the frontend.
 
 ## Devpost Project Link
 Come read all about our project and how it came to be [here at our Devpost project page!](https://devpost.com/software/ttc-alerts-but-like-better)
