@@ -1,0 +1,31 @@
+.export-to-code-error {
+  width: 100%;
+  height: 100%;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+  display: flex;
+}
+
+.num-18-mobile-app-hea-instance-1 {
+  width: 100%;
+  flex-basis: 7%;
+}
+
+.light {
+  width: 108px;
+  height: 131px;
+  object-fit: cover;
+}
+
+.ttc-logo {
+  width: 375px;
+  height: 160px;
+  object-fit: cover;
+}
+
+.num-01-textbox-instance-1 {
+  width: 75%;
+  flex-basis: 9%;
+  margin-bottom: 39px;
+}

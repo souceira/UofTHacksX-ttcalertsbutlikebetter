@@ -1,0 +1,14 @@
+.num-09-input-field {
+  color: #898989;
+  background-color: #0000000a;
+  border: 2px solid #000;
+  border-radius: 8px;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: stretch;
+  font-family: Nunito, Arial;
+  font-size: 1.063rem;
+  font-weight: 500;
+  line-height: 22px;
+  display: flex;
+}

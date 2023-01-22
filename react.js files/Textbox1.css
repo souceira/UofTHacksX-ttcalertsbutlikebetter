@@ -1,0 +1,15 @@
+.num-01-textbox {
+  text-align: center;
+  color: #000;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  padding-bottom: 1px;
+  padding-right: 1px;
+  font-family: Nunito, Arial;
+  font-size: 1.5rem;
+  font-weight: 500;
+  line-height: 31px;
+  display: flex;
+}
+

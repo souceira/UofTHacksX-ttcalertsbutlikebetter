@@ -1,0 +1,27 @@
+.num-18-mobile-app-hea {
+  color: #000;
+  text-align: center;
+  background-color: #fff;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  padding-top: 3px;
+  padding-left: 36px;
+  padding-right: 14px;
+  font-family: Nunito, Arial;
+  font-size: 1.063rem;
+  font-weight: 700;
+  line-height: 22px;
+  display: flex;
+}
+
+.time {
+  margin-top: 3px;
+}
+
+.right-side {
+  width: 77px;
+  height: 13px;
+  object-fit: cover;
+  margin-top: 2px;
+}

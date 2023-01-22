@@ -1,0 +1,28 @@
+.component-1 {
+  color: #000;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: stretch;
+  font-family: Nunito, Arial;
+  font-size: 1.063rem;
+  font-weight: 500;
+  line-height: 22px;
+  display: flex;
+}
+
+.rectangle-4 {
+  height: 100%;
+  background-color: #fcfcfc;
+  border: 2px solid #6d6d6d;
+  flex-direction: row;
+  flex-basis: 100%;
+  justify-content: flex-start;
+  align-items: center;
+  padding-top: 2px;
+  padding-left: 16px;
+  display: flex;
+}
+
+.station {
+  margin-top: 1px;
+}

@@ -1,0 +1,13 @@
+.component-6 {
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: stretch;
+  padding-bottom: 9px;
+  display: flex;
+}
+
+.component-1-instance-1 {
+  height: 25%;
+  flex-basis: 100%;
+  margin-bottom: 6px;
+}

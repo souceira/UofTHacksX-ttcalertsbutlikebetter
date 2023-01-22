@@ -1,0 +1,378 @@
+.page-2 {
+  color: #000;
+  width: 100%;
+  height: 100%;
+  background-color: #fff;
+  flex-direction: column;
+  justify-content: space-evenly;
+  align-items: center;
+  padding-top: 38px;
+  padding-bottom: 19px;
+  padding-right: 5px;
+  font-family: Nunito, Arial;
+  font-size: .875rem;
+  font-weight: 500;
+  line-height: 18px;
+  display: flex;
+}
+
+.select-the-line {
+  align-self: flex-start;
+  margin-top: 2px;
+  margin-left: 15px;
+  font-size: 1.5rem;
+  line-height: 31px;
+}
+
+.flex-container {
+  width: 100%;
+  flex-direction: column;
+  flex-basis: 27%;
+  justify-content: flex-end;
+  align-self: flex-start;
+  align-items: flex-end;
+  display: flex;
+}
+
+.component-6-instance-1 {
+  width: 35%;
+  flex-basis: 98%;
+  margin-bottom: -124px;
+  margin-left: 21px;
+}
+
+.line-1 {
+  width: 370px;
+  height: 2px;
+  object-fit: cover;
+  border: 2px solid #000;
+  margin-bottom: 1px;
+}
+
+.frame-21 {
+  width: 60%;
+  flex-direction: row;
+  flex-basis: 24%;
+  justify-content: center;
+  align-self: center;
+  align-items: center;
+  margin-bottom: -33px;
+  margin-left: 23px;
+  padding-bottom: 1px;
+  display: flex;
+}
+
+.rectangle-6 {
+  color: #000;
+  height: 55%;
+  background-color: #ffd5d5;
+  border: none;
+  border-radius: 8px;
+  flex-direction: row;
+  flex-basis: 91%;
+  justify-content: center;
+  align-items: center;
+  margin-top: 1px;
+  padding-top: 1px;
+  padding-right: 1px;
+  font-family: Nunito, Arial;
+  font-size: 1.063rem;
+  font-weight: 500;
+  line-height: 22px;
+  display: flex;
+}
+
+.alert-type {
+  margin-top: 1px;
+}
+
+.rectangle-7 {
+  color: #000;
+  z-index: 1;
+  width: 15%;
+  background-color: #ffd4d4;
+  border: none;
+  border-radius: 8px;
+  flex-direction: row;
+  flex-basis: 13%;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: -23px;
+  font-family: Nunito, Arial;
+  font-size: 1.063rem;
+  font-weight: 500;
+  line-height: 22px;
+  display: flex;
+}
+
+.rectangle-5 {
+  color: #000;
+  z-index: 1;
+  width: 25%;
+  background-color: #ffd5d5;
+  border: none;
+  border-radius: 8px;
+  flex-direction: row;
+  flex-basis: 13%;
+  justify-content: center;
+  align-self: flex-start;
+  align-items: center;
+  font-family: Nunito, Arial;
+  font-size: 1.063rem;
+  font-weight: 500;
+  line-height: 22px;
+  display: flex;
+}
+
+.num-360-f-103953531-j {
+  width: 34px;
+  height: 27px;
+  object-fit: cover;
+  background-position: center;
+  background-size: cover;
+  margin-top: 12px;
+  margin-bottom: -17px;
+}
+
+.assailant-with-weapo {
+  align-self: center;
+  margin-bottom: 20px;
+  margin-left: 20px;
+}
+
+.line-3 {
+  width: 348px;
+  height: 1px;
+  object-fit: cover;
+  border: 1px solid #000;
+  align-self: center;
+  margin-bottom: 10px;
+}
+
+.num-360-f-103953531-j-1 {
+  width: 32px;
+  height: 27px;
+  object-fit: cover;
+  background-position: center;
+  background-size: cover;
+  margin-bottom: 0px;
+}
+
+.assailant-with-weapo-1 {
+  align-self: center;
+  margin-bottom: 5px;
+  margin-left: 20px;
+}
+
+.line-4 {
+  width: 348px;
+  height: 1px;
+  object-fit: cover;
+  border: 1px solid #000;
+}
+
+.flex-container-1 {
+  width: 90%;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 1px;
+  margin-left: 9px;
+  display: flex;
+}
+
+.lawrence {
+  margin-top: 3px;
+}
+
+.fight-broke-out {
+  align-self: flex-end;
+  margin-bottom: 2px;
+}
+
+.num-360-f-103953531-j-2 {
+  width: 32px;
+  height: 27px;
+  object-fit: cover;
+  background-position: center;
+  background-size: cover;
+  margin-left: 25px;
+}
+
+.line-5 {
+  width: 348px;
+  height: 1px;
+  object-fit: cover;
+  border: 1px solid #000;
+}
+
+.flex-container-2 {
+  width: 90%;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  margin-left: 15px;
+  display: flex;
+}
+
+.queen {
+  margin-top: 1px;
+  margin-right: 6px;
+}
+
+.assailant-with-weapo-2 {
+  margin-top: 1px;
+  margin-left: 3px;
+}
+
+.num-360-f-103953531-j-3 {
+  width: 32px;
+  height: 27px;
+  object-fit: cover;
+  background-position: center;
+  background-size: cover;
+}
+
+.line-6 {
+  width: 348px;
+  height: 1px;
+  object-fit: cover;
+  border: 1px solid #000;
+}
+
+.flex-container-3 {
+  width: 90%;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  margin-left: 12px;
+  display: flex;
+}
+
+.yorkdale {
+  margin-right: 2px;
+}
+
+.armed-officers-prese {
+  margin-top: 1px;
+  margin-left: 1px;
+}
+
+.num-360-f-103953531-j-4 {
+  width: 32px;
+  height: 27px;
+  object-fit: cover;
+  background-position: center;
+  background-size: cover;
+}
+
+.line-7 {
+  width: 348px;
+  height: 1px;
+  object-fit: cover;
+  border: 1px solid #000;
+}
+
+.flex-container-4 {
+  width: 90%;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  margin-left: 1px;
+  display: flex;
+}
+
+.queens-park, .trespasser-on-tracks {
+  margin-top: 1px;
+}
+
+.num-360-f-103953531-j-5 {
+  width: 32px;
+  height: 27px;
+  object-fit: cover;
+  background-position: center;
+  background-size: cover;
+  margin-left: 14px;
+}
+
+.line-8 {
+  width: 348px;
+  height: 1px;
+  object-fit: cover;
+  border: 1px solid #000;
+}
+
+.flex-container-5 {
+  width: 85%;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  margin-left: 11px;
+  display: flex;
+}
+
+.queen-1 {
+  margin-top: 1px;
+  margin-right: 7px;
+}
+
+.assailant-with-weapo-3 {
+  margin-top: 2px;
+  margin-left: 3px;
+}
+
+.num-360-f-103953531-j-6 {
+  width: 32px;
+  height: 27px;
+  object-fit: cover;
+  background-position: center;
+  background-size: cover;
+}
+
+.line-9 {
+  width: 348px;
+  height: 1px;
+  object-fit: cover;
+  border: 1px solid #000;
+}
+
+.flex-container-6 {
+  width: 90%;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  margin-left: 10px;
+  display: flex;
+}
+
+.fight-broke-out-1 {
+  margin-top: 1px;
+}
+
+.num-360-f-103953531-j-7 {
+  width: 32px;
+  height: 27px;
+  object-fit: cover;
+  background-position: center;
+  background-size: cover;
+  margin-left: 23px;
+}
+
+.line-10 {
+  width: 348px;
+  height: 1px;
+  object-fit: cover;
+  border: 1px solid #000;
+}
+
+.num-1-5 {
+  margin-bottom: 1px;
+  margin-left: 5px;
+}
+
+.component-8-instance-1 {
+  width: 40%;
+  flex-basis: 4%;
+  margin-bottom: 2px;
+  margin-left: 22px;
+}

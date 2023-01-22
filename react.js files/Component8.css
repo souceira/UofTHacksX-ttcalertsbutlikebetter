@@ -1,0 +1,18 @@
+.component-8 {
+  color: #000;
+  background-color: #fffcde;
+  border: 2px solid #e0c94e;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  padding-top: 1px;
+  font-family: Nunito, Arial;
+  font-size: .875rem;
+  font-weight: 500;
+  line-height: 18px;
+  display: flex;
+}
+
+.share-my-location {
+  margin-top: 1px;
+}

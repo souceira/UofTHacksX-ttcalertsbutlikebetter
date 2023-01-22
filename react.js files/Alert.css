@@ -1,0 +1,143 @@
+.page-3 {
+  color: #000;
+  text-align: center;
+  width: 100%;
+  height: 100%;
+  background-color: #fff;
+  flex-direction: column;
+  justify-content: space-evenly;
+  align-items: center;
+  padding-top: 42px;
+  padding-bottom: 33px;
+  padding-left: 33px;
+  font-family: Mulish, Arial;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 42px;
+  display: flex;
+}
+
+.num-01-textbox-instance-1 {
+  width: 75%;
+  flex-basis: 6%;
+  margin-top: 3px;
+  margin-bottom: 3px;
+}
+
+.num-01-textbox-1-instance {
+  width: 75%;
+  flex-basis: 6%;
+}
+
+.rectangle-8 {
+  color: #3c982d;
+  width: 55%;
+  background-color: #b6f2ad;
+  border: none;
+  border-radius: 8px;
+  flex-direction: row;
+  flex-basis: 6%;
+  justify-content: center;
+  align-items: center;
+  padding-bottom: 1px;
+  padding-right: 1px;
+  font-family: Nunito, Arial;
+  font-size: 1.5rem;
+  font-weight: 500;
+  line-height: 31px;
+  display: flex;
+}
+
+.num-01-textbox-2-instance {
+  width: 75%;
+  flex-basis: 6%;
+}
+
+.rectangle-11 {
+  color: #b82424;
+  text-align: center;
+  width: 60%;
+  background-color: #ffc7c7;
+  border: none;
+  border-radius: 8px;
+  flex-direction: row;
+  flex-basis: 7%;
+  justify-content: space-evenly;
+  align-items: center;
+  margin-bottom: 11px;
+  padding-left: 3px;
+  font-family: Miriam Libre, Arial;
+  font-size: 1.188rem;
+  font-weight: 400;
+  line-height: 25px;
+  display: flex;
+}
+
+.assailant-with-weapo {
+  margin-top: 3px;
+  margin-left: 1px;
+}
+
+.num-360-f-103953531-j {
+  width: 33px;
+  height: 25px;
+  object-fit: cover;
+  background-position: center;
+  background-size: cover;
+}
+
+.st-patrick {
+  margin-top: 1px;
+}
+
+.rectangle-9 {
+  color: #3c982d;
+  width: 55%;
+  background-color: #b6f2ad;
+  border: none;
+  border-radius: 8px;
+  flex-direction: row;
+  flex-basis: 6%;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 9px;
+  padding-bottom: 1px;
+  padding-right: 1px;
+  font-family: Nunito, Arial;
+  font-size: 1.5rem;
+  font-weight: 500;
+  line-height: 31px;
+  display: flex;
+}
+
+.dundas {
+  margin-top: 1px;
+  font-family: Miriam Libre, Arial;
+}
+
+.rectangle-10 {
+  color: #3c982d;
+  width: 55%;
+  background-color: #b6f2ad;
+  border: none;
+  border-radius: 8px;
+  flex-direction: row;
+  flex-basis: 6%;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 19px;
+  padding-right: 1px;
+  font-family: Nunito, Arial;
+  font-size: 1.5rem;
+  font-weight: 500;
+  line-height: 31px;
+  display: flex;
+}
+
+.arrow-5 {
+  width: 39px;
+  object-fit: cover;
+  align-self: flex-start;
+  margin-top: 2px;
+  margin-bottom: 8px;
+}
